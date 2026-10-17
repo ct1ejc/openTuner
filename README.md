@@ -13,7 +13,7 @@ The program is protected by Avast antivirus and is free of viruses.
 
 
 
-  INGLES
+  
 
 Using open-source code from fellow amateur radio operator ZR6TG, I have made some modifications to the program to improve certain aspects. OpenTuner has been tested with the Pico Tuner hardware (a variant of the Minitiouner). The complete program is available at:
 http://ct1ejc.dynip.sapo.pt/forum1/conteudo/programasgratis/Opentuner.zip
