@@ -4,3 +4,5 @@ The complete program is available on the website.
 http://   ct1ejc.dynip.sapo.pt/forum1/conteudo/programasgratis/Opentuner.zip
 
 For this program to work, you must download it from the website at the link above.
+
+On your PC, create a folder with a name of your choice and download all the files into it. Run the opentuner.exe file.
