@@ -3,4 +3,4 @@ OpenTuner was tested with the Pico Tuner hardware (Minitiouner Variants).
 The complete program is available on the website.
 http://   ct1ejc.dynip.sapo.pt/forum1/conteudo/programasgratis/Opentuner.zip
 
-For this program to work, you must download it from the link above.
+For this program to work, you must download it from the website at the link above.
