@@ -11,8 +11,8 @@ On your PC, create a folder with a name of your choice and download all the file
 The program is protected by Avast antivirus and is free of viruses.
 
 
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------
+                                               HELP
   
 
 Using open-source code from fellow amateur radio operator ZR6TG, I have made some modifications to the program to improve certain aspects. OpenTuner has been tested with the Pico Tuner hardware (a variant of the Minitiouner). The complete program is available at:
