@@ -4,6 +4,8 @@ The complete program is available on the website.
 
 http://ct1ejc.dynip.sapo.pt/forum1/conteudo/programasgratis/Opentuner.zip
 
+Do not download from GitHub; copy the link and download it using a browser.
+
 For this program to work, you must download it from the website at the link above.
 
 On your PC, create a folder with a name of your choice and download all the files into it. Run the opentuner.exe file.
@@ -18,6 +20,8 @@ The program is protected by Avast antivirus and is free of viruses.
 Using open-source code from fellow amateur radio operator ZR6TG, I have made some modifications to the program to improve certain aspects. OpenTuner has been tested with the Pico Tuner hardware (a variant of the Minitiouner). The complete program is available at:
 
 http://ct1ejc.dynip.sapo.pt/forum1/conteudo/programasgratis/Opentuner.zip
+Do not download from GitHub; copy the link and download it using a browser.
+
 To select a station on TUNER1 or TUNER2:
 Right-click next to "Change frequency." Select the desired frequency from the list, then click the left mouse button.
 
